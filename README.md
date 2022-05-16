@@ -1,4 +1,4 @@
-[!][Header](https://github.com/MedvichEgor/MEDVICHEGOR/blob/main/assets/224585764802.72034.gif) 
+![Header](https://github.com/MedvichEgor/MEDVICHEGOR/blob/main/assets/224585764802.72034.gif) 
 
 About me
 
