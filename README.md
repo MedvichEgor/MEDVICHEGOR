@@ -1,7 +1,9 @@
 
 ![Header](https://github.com/MedvichEgor/MEDVICHEGOR/blob/main/assets/Futuristic%20-%20896.gif)
 
-About me
+## Меня зовут Егор и я начинающий тестировщик.
+
+*** 
 
 Languages and Tools
 
