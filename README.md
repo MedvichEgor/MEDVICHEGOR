@@ -13,9 +13,13 @@
 ![Flutter](https://img.shields.io/badge/-Postman-212121?style=for-the-badge&logo=postman)
 ![Flutter](https://img.shields.io/badge/-Postman-212121?style=for-the-badge&logo=postman)
 
-Statistics
+***
 
+<!-- Statistics -->
+### ***Statistics:***
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?MedvichEgor=anuraghazra&show_icons=true?theme=chartreuse-dark)](https://github.com/MedvichEgor)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?MedvichEgor=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
