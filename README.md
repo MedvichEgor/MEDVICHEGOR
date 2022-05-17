@@ -19,10 +19,6 @@ Statistics
 
 
 
-
-
-
-
 <!-- Заголовки -->
 # Header
 
