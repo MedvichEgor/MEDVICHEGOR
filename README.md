@@ -1,11 +1,17 @@
 
 ![Header](https://github.com/MedvichEgor/MEDVICHEGOR/blob/main/assets/Futuristic%20-%20896.gif)
 
-## Меня зовут Егор и я начинающий тестировщик.
+## ***Меня зовут Егор и я начинающий тестировщик.***
 
 *** 
 
-Languages and Tools
+<!-- Languages and Tools -->
+### ***Hard Skills***:
+![Flutter](https://img.shields.io/badge/-Postman-212121?style=for-the-badge&logo=postman)
+![Flutter](https://img.shields.io/badge/-Postman-212121?style=for-the-badge&logo=postman)
+![Flutter](https://img.shields.io/badge/-Postman-212121?style=for-the-badge&logo=postman)
+![Flutter](https://img.shields.io/badge/-Postman-212121?style=for-the-badge&logo=postman)
+![Flutter](https://img.shields.io/badge/-Postman-212121?style=for-the-badge&logo=postman)
 
 Statistics
 
