@@ -17,10 +17,9 @@
 
 <!-- Statistics -->
 ### ***Statistics:***
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?MedvichEgor=anuraghazra&show_icons=true?theme=chartreuse-dark)](https://github.com/MedvichEgor)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)](https://github.com/MedvichEgor)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?MedvichEgor=willianrod)](https://github.com/anuraghazra/github-readme-stats)
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
